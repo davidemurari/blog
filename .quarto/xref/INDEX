@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "08cd2152"
+  },
+  "index.qmd": {
+    "index.html": "bb2d5ec2"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "853ef464"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "b091d1dc"
+  },
+  "academicWork.qmd": {
+    "academicWork.html": "02c08a76"
+  },
+  "posts/post-with-code/Preserving_Quadratic_First_Integrals.ipynb": {
+    "Preserving_Quadratic_First_Integrals.html": "9d69ec09"
+  },
+  "posts/welcome/Preserving_Quadratic_First_Integrals.ipynb": {
+    "Preserving_Quadratic_First_Integrals.html": "0d31ba5c"
+  },
+  "posts/Preserving_Quadratic_First_Integrals.ipynb": {
+    "Preserving_Quadratic_First_Integrals.html": "45a1ac5a"
+  }
+}

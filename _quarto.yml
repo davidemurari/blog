@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Davide Murari"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/davidemurari
+      - icon: twitter
+        href: https://twitter.com/dademurari
+      - about.qmd
+      - academicWork.qmd
+format:
+  html:
+    theme: superhero
+    css: styles.css
+
+
+
