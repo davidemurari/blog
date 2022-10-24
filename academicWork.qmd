@@ -13,7 +13,7 @@ My ResearchGate page is [here](https://www.researchgate.net/profile/Davide-Murar
 ### Preprints
 
 - Celledoni, E., Cokaj, E., Leone, A., Murari, D., & Owren, B. (2021). Dynamics of the N-fold Pendulum in the framework of Lie Group Integrators. arXiv preprint arXiv:2109.12325.
-- Celledoni, E., Murari, D., Owren, B., Schoenlieb, C-B., Sherry, F., (2022). Dynamical systems' based neural networks. 
+- Celledoni, E., Murari, D., Owren, B., Schönlieb, C-B., Sherry, F., (2022). Dynamical systems' based neural networks. 
 arXiv preprint arXiv:2210.02373
 ### Talks
 
