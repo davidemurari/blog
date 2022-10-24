@@ -13,8 +13,9 @@ My ResearchGate page is [here](https://www.researchgate.net/profile/Davide-Murar
 ### Preprints
 
 - Celledoni, E., Cokaj, E., Leone, A., Murari, D., & Owren, B. (2021). Dynamics of the N-fold Pendulum in the framework of Lie Group Integrators. arXiv preprint arXiv:2109.12325.
-
-Talks
+- Celledoni, E., Murari, D., Owren, B., Schoenlieb, C-B., Sherry, F., (2022). Dynamical systems' based neural networks. 
+arXiv preprint arXiv:2210.02373
+### Talks
 
 - SciCADE, Reykjavík, 28-07-2022, "Structure preserving neural networks coming from ODE models", [**SLIDES**](https://slides.com/davidemurari/neural-networks-scicade2022/fullscreen)
 - One day – Young Researchers Seminars, Maths Applications & Models,"Learning Hamiltonians of constrained mechanical systems", 08-07-2022 [**SLIDES**](https://slides.com/davidemurari/constrained-hamiltonians-verona/fullscreen)
