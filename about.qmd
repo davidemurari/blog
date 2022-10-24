@@ -1,6 +1,6 @@
 ---
 title: "About me"
-image: \photos\logo.png
+image: \logo.png
 about:
   template: jolla
   links:
